@@ -1,1 +1,5 @@
+/home/duongichi/workspace/HelloSpringMVC/src/main/java/org/o7planning/hellospringmvc/config/SecurityConfig.java
 /home/duongichi/workspace/HelloSpringMVC/src/main/java/org/o7planning/hellospringmvc/controller/HelloController.java
+/home/duongichi/workspace/HelloSpringMVC/src/main/java/org/o7planning/hellospringmvc/config/SpringMvcInitializer.java
+/home/duongichi/workspace/HelloSpringMVC/src/main/java/org/o7planning/hellospringmvc/config/HelloConfig.java
+/home/duongichi/workspace/HelloSpringMVC/src/main/java/org/o7planning/hellospringmvc/config/SecurityWebApplicationInitializer.java

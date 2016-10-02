@@ -1,1 +1,5 @@
+org/o7planning/hellospringmvc/config/SpringMvcInitializer.class
+org/o7planning/hellospringmvc/config/HelloConfig.class
+org/o7planning/hellospringmvc/config/SecurityWebApplicationInitializer.class
 org/o7planning/hellospringmvc/controller/HelloController.class
+org/o7planning/hellospringmvc/config/SecurityConfig.class
